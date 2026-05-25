@@ -38,4 +38,6 @@ const App = () => {
 
 export default App
 
-/* 41420 */
+/* git add . */
+/* git commit -m "mô tả ngắn gọn việc bạn vừa làm" (Ví dụ: git commit -m "feat: dựng xong giao diện phần menu" hoặc git commit -m "fix: sửa lỗi hiển thị nút bấm").*/
+/* git push */
